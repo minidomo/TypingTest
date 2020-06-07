@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TypingTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TypingTest_jar</output-path>
+    <root id="archive" name="TypingTest.jar">
+      <element id="module-output" name="TypingTest" />
+    </root>
+  </artifact>
+</component>
