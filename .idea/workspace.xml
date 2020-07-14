@@ -6,22 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b42bd3d-f5c8-4fd1-a6a5-aae954f94f05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/TypingTest_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/TypingTest_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ApplyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ApplyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SettingsModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SettingsModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SettingsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SettingsView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SettingsWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SettingsWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TypingTestWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypingTestWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WordDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/cog-solid.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/redo-solid.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/words/easy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/words/hard.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="6b42bd3d-f5c8-4fd1-a6a5-aae954f94f05" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
