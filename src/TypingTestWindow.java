@@ -137,7 +137,7 @@ public class TypingTestWindow {
         timeMiddleLabel.setBackground(Color.decode("#3C4D5C"));
 
         final int WIDTH_REFRESH = 50, HEIGHT_REFRESH = 50;
-        refreshButton = new JButton(new ImageIcon(new ImageIcon(getClass().getResource("images/redo-solid.png")).getImage().getScaledInstance(WIDTH_REFRESH / 3, HEIGHT_REFRESH / 3, Image.SCALE_SMOOTH)));
+        refreshButton = new JButton(new ImageIcon(new ImageIcon(getClass().getResource("resources/images/redo-solid.png")).getImage().getScaledInstance(WIDTH_REFRESH / 3, HEIGHT_REFRESH / 3, Image.SCALE_SMOOTH)));
         refreshButton.setPreferredSize(new Dimension(WIDTH_REFRESH, HEIGHT_REFRESH));
         refreshButton.setMaximumSize(new Dimension(WIDTH_REFRESH, HEIGHT_REFRESH));
         refreshButton.setMinimumSize(new Dimension(WIDTH_REFRESH, HEIGHT_REFRESH));
@@ -145,7 +145,7 @@ public class TypingTestWindow {
         refreshButton.setBackground(Color.decode("#428BCA"));
 
         final int WIDTH_SETTINGS = 50, HEIGHT_SETTINGS = 50;
-        settingsButton = new JButton(new ImageIcon(new ImageIcon(getClass().getResource("images/cog-solid.png")).getImage().getScaledInstance(WIDTH_SETTINGS / 3, HEIGHT_SETTINGS / 3, Image.SCALE_SMOOTH)));
+        settingsButton = new JButton(new ImageIcon(new ImageIcon(getClass().getResource("resources/images/cog-solid.png")).getImage().getScaledInstance(WIDTH_SETTINGS / 3, HEIGHT_SETTINGS / 3, Image.SCALE_SMOOTH)));
         settingsButton.setPreferredSize(new Dimension(WIDTH_SETTINGS, HEIGHT_SETTINGS));
         settingsButton.setMaximumSize(new Dimension(WIDTH_SETTINGS, HEIGHT_SETTINGS));
         settingsButton.setMinimumSize(new Dimension(WIDTH_SETTINGS, HEIGHT_SETTINGS));

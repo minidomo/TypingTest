@@ -11,11 +11,6 @@ public class ApplyController {
      */
     public ApplyController(SettingsModel settingsModel, SettingsWindow settingsWindow) {
         settingsWindow.getApplyButton().addActionListener((e) -> {
-            if (settingsWindow.getDarkModeRadioButton().isSelected()) {
-                settingsModel.setColorTheme(SettingsModel.DARK_MODE);
-            } else {
-                settingsModel.setColorTheme(SettingsModel.LIGHT_MODE);
-            }
             if (settingsWindow.getDifficultyComboBox().getSelectedItem().equals("Easy")) {
                 settingsModel.setDifficulty(SettingsModel.EASY_DIFFICULTY);
             } else {

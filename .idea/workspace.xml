@@ -6,7 +6,22 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b42bd3d-f5c8-4fd1-a6a5-aae954f94f05" name="Default Changelist" comment="" />
+    <list default="true" id="6b42bd3d-f5c8-4fd1-a6a5-aae954f94f05" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/TypingTest_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/TypingTest_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ApplyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ApplyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SettingsModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SettingsModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SettingsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SettingsView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SettingsWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SettingsWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypingTestWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypingTestWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WordDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/cog-solid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/redo-solid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/words/easy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/words/hard.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +34,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZEExxhxP3wG2WcWg9QwWVJdWvx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,12 +45,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GUIProject" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resources" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.TypingTestRunner">
+  <component name="RunManager" selected="JAR Application.Jar">
     <configuration name="TypingTestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TypingTestRunner" />
       <module name="TypingTest" />
@@ -74,81 +94,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1154" y="348" key="#BuildArtifactsBeforeRunChooser" timestamp="1584605853508">
+    <state x="635" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594762309666">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1154" y="348" key="#BuildArtifactsBeforeRunChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584605853508" />
-    <state x="828" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584605855002">
+    <state x="635" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594762309666" />
+    <state x="932" y="391" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594762091735">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="828" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584605855002" />
-    <state x="1092" y="215" width="390" height="646" key="#com.intellij.ide.util.MemberChooser" timestamp="1584890111031">
+    <state x="932" y="391" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594762091735" />
+    <state x="982" y="362" key="FileChooserDialogImpl" timestamp="1594762097313">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1092" y="215" width="390" height="646" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584890111031" />
-    <state x="1017" y="323" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584605807591">
+    <state x="982" y="362" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1594762097313" />
+    <state width="1265" height="227" key="GridCell.Tab.0.bottom" timestamp="1594762807306">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1017" y="323" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584605807591" />
-    <state x="651" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584850732711">
+    <state width="1265" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594762807306" />
+    <state width="1265" height="227" key="GridCell.Tab.0.center" timestamp="1594762807305">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="651" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584850732711" />
-    <state x="1067" y="294" key="FileChooserDialogImpl" timestamp="1584844366614">
+    <state width="1265" height="227" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594762807305" />
+    <state width="1265" height="227" key="GridCell.Tab.0.left" timestamp="1594762807305">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1067" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584844366614" />
-    <state width="1086" height="227" key="GridCell.Tab.0.bottom" timestamp="1584978118899">
+    <state width="1265" height="227" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594762807305" />
+    <state width="1265" height="227" key="GridCell.Tab.0.right" timestamp="1594762807305">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1086" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584978118899" />
-    <state width="1086" height="227" key="GridCell.Tab.0.center" timestamp="1584978118899">
+    <state width="1265" height="227" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594762807305" />
+    <state x="682" y="182" key="SettingsEditor" timestamp="1594762101274">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1086" height="227" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584978118899" />
-    <state width="1086" height="227" key="GridCell.Tab.0.left" timestamp="1584978118899">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1086" height="227" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584978118899" />
-    <state width="1086" height="227" key="GridCell.Tab.0.right" timestamp="1584978118899">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1086" height="227" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584978118899" />
-    <state width="1086" height="341" key="GridCell.Tab.1.bottom" timestamp="1584938104163">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1086" height="341" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584938104163" />
-    <state width="1086" height="341" key="GridCell.Tab.1.center" timestamp="1584938104163">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1086" height="341" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584938104163" />
-    <state width="1086" height="341" key="GridCell.Tab.1.left" timestamp="1584938104163">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1086" height="341" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584938104163" />
-    <state width="1086" height="341" key="GridCell.Tab.1.right" timestamp="1584938104163">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1086" height="341" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584938104163" />
-    <state x="767" y="114" key="SettingsEditor" timestamp="1584605812515">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="767" y="114" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1584605812515" />
-    <state x="1044" y="154" width="742" height="707" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584975714554">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1044" y="154" width="742" height="707" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584975714554" />
-    <state x="836" y="100" width="903" height="880" key="dock-window-1" timestamp="1584417975397">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="836" y="100" width="903" height="880" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" timestamp="1584417975397" />
-    <state x="1126" y="117" width="627" height="852" key="find.popup" timestamp="1584977732756">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1126" y="117" width="627" height="852" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1584977732756" />
-    <state x="1096" y="200" width="672" height="676" key="search.everywhere.popup" timestamp="1584910517507">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1096" y="200" width="672" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1584910517507" />
+    <state x="682" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1594762101274" />
   </component>
 </project>

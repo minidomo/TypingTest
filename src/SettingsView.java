@@ -21,11 +21,6 @@ public class SettingsView {
                 settingsWindow.getFrame().toFront();
                 settingsWindow.getFrame().setVisible(true);
                 settingsWindow.getFrame().requestFocus();
-                if (settingsModel.getColorTheme() == SettingsModel.LIGHT_MODE) {
-                    settingsWindow.getDarkModeRadioButton().setSelected(false);
-                } else {
-                    settingsWindow.getDarkModeRadioButton().setSelected(true);
-                }
                 if (settingsModel.getDifficulty() == SettingsModel.EASY_DIFFICULTY) {
                     settingsWindow.getDifficultyComboBox().setSelectedItem("Easy");
                 } else {
