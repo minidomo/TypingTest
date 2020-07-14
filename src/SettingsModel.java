@@ -10,7 +10,7 @@ public class SettingsModel extends Observable {
     public static final int LIGHT_MODE = 0, DARK_MODE = 1;
     public static final int EASY_DIFFICULTY = 0, HARD_DIFFICULTY = 1;
 
-    private int colorTheme, difficulty, duration;
+    private int difficulty, duration;
     private boolean open;
 
     public static final int
@@ -22,7 +22,6 @@ public class SettingsModel extends Observable {
      * settings.
      */
     private SettingsModel() {
-        colorTheme = LIGHT_MODE;
         difficulty = EASY_DIFFICULTY;
         duration = 60;
         open = false;
@@ -35,26 +34,6 @@ public class SettingsModel extends Observable {
      */
     public static SettingsModel getInstance() {
         return SETTINGS_MODEL;
-    }
-
-    /**
-     * Returns the current color theme.
-     *
-     * @return the current color theme
-     */
-    public int getColorTheme() {
-        return colorTheme;
-    }
-
-    /**
-     * Sets the current color theme.
-     *
-     * @param colorTheme the new color theme
-     */
-    public void setColorTheme(int colorTheme) {
-        if (this.colorTheme != colorTheme) {
-            this.colorTheme = colorTheme;
-        }
     }
 
     /**

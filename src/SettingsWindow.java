@@ -5,7 +5,6 @@ import java.awt.*;
  * The window for the settings of the typing test application.
  */
 public class SettingsWindow {
-    private JRadioButton darkModeRadioButton;
     private JComboBox<String> difficultyComboBox;
     private JTextField durationField;
     private JButton applyButton;
@@ -113,43 +112,12 @@ public class SettingsWindow {
         difficultyPanel.add(difficultyLabel, BorderLayout.WEST);
         difficultyPanel.add(difficultyComboBoxPanel, BorderLayout.EAST);
 
-        JLabel darkModeLabel = new JLabel("Dark Mode");
-        darkModeLabel.setFont(new Font("SansSerif", Font.BOLD, 16));
-        darkModeLabel.setBorder(BorderFactory.createEmptyBorder(0, 15, 0, 0));
-        darkModeLabel.setForeground(Color.decode("#333333"));
-
-        darkModeRadioButton = new JRadioButton();
-        darkModeRadioButton.setBorder(BorderFactory.createEmptyBorder(0, 0, 0, 15));
-
-        final int WIDTH_DARK_MODE_PANEL = 300, HEIGHT_DARK_MODE_PANEL = 50;
-        JPanel darkModePanel = new JPanel();
-        darkModePanel.setPreferredSize(new Dimension(WIDTH_DARK_MODE_PANEL, HEIGHT_DARK_MODE_PANEL));
-        darkModePanel.setMinimumSize(new Dimension(WIDTH_DARK_MODE_PANEL, HEIGHT_DARK_MODE_PANEL));
-        darkModePanel.setMaximumSize(new Dimension(WIDTH_DARK_MODE_PANEL, HEIGHT_DARK_MODE_PANEL));
-        darkModePanel.setOpaque(true);
-        darkModePanel.setBackground(Color.decode("#F9F9F9"));
-        darkModePanel.setBorder(BorderFactory.createMatteBorder(1, 0, 1, 0, Color.decode("#DDDDDD")));
-        darkModePanel.setAlignmentX(SwingConstants.LEFT);
-        darkModePanel.setLayout(new BorderLayout());
-        darkModePanel.add(darkModeLabel, BorderLayout.WEST);
-        darkModePanel.add(darkModeRadioButton, BorderLayout.EAST);
-
         JPanel mainPanel = new JPanel();
         mainPanel.setLayout(new BoxLayout(mainPanel, BoxLayout.Y_AXIS));
-        mainPanel.add(darkModePanel);
         mainPanel.add(difficultyPanel);
         mainPanel.add(durationPanel);
         mainPanel.add(applyPanel);
         return mainPanel;
-    }
-
-    /**
-     * Returns the dark mode radio button.
-     *
-     * @return the dark mode radio button
-     */
-    public JRadioButton getDarkModeRadioButton() {
-        return darkModeRadioButton;
     }
 
     /**

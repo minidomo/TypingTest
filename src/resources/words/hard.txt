@@ -275,7 +275,7 @@ campaign
 can
 can't
 cannot
-can’t
+can't
 capabilities
 capital
 car
@@ -538,7 +538,7 @@ it
 it's
 its
 itself
-it’s
+it's
 job
 jobs
 just
@@ -988,7 +988,7 @@ without
 women
 won
 won't
-won’t
+won't
 word
 work
 workers
