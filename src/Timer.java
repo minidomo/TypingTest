@@ -19,6 +19,7 @@ public class Timer {
      * @param clockModel     the clock model
      * @param userInputModel the user input model
      * @param textBoxModel   the text box model
+     * @param statsModel     the stats model
      */
     public Timer(ClockModel clockModel, UserInputModel userInputModel, TextBoxModel textBoxModel, StatsModel statsModel) {
         this.clockModel = clockModel;

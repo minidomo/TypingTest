@@ -42,7 +42,7 @@ public class WordDatabase {
     /**
      * Returns the total number of easy words in the database.
      *
-     * @return
+     * @return the total number of easy words in the database
      */
     public int getEasyWordCount() {
         return easyWords.size();
@@ -51,7 +51,7 @@ public class WordDatabase {
     /**
      * Returns the total number of hard words in the database.
      *
-     * @return
+     * @return the total number of hard words in the database
      */
     public int getHardWordCount() {
         return hardWords.size();

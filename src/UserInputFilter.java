@@ -19,6 +19,7 @@ public class UserInputFilter extends DocumentFilter {
      * @param userInputModel the user input model
      * @param textBoxModel   the text box model
      * @param clockModel     the clock model
+     * @param statsModel     the stats model
      */
     public UserInputFilter(UserInputModel userInputModel, TextBoxModel textBoxModel, ClockModel clockModel, StatsModel statsModel) {
         this.userInputModel = userInputModel;
