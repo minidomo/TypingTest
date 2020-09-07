@@ -16,12 +16,12 @@ public class WordDatabase {
      */
     private WordDatabase() {
         try {
-            Scanner sc = new Scanner(WordDatabase.class.getResourceAsStream("../resources/words/easy.txt"));
+            Scanner sc = new Scanner(getClass().getResourceAsStream("/resources/words/easy.txt"));
             easyWords = new ArrayList<>();
             while (sc.hasNext()) {
                 easyWords.add(new Word(sc.next()));
             }
-            sc = new Scanner(WordDatabase.class.getResourceAsStream("../resources/words/hard.txt"));
+            sc = new Scanner(getClass().getResourceAsStream("/resources/words/hard.txt"));
             hardWords = new ArrayList<>();
             while (sc.hasNext()) {
                 hardWords.add(new Word(sc.next()));

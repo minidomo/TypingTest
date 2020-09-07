@@ -1,3 +1,5 @@
+package runner;
+
 import windows.TypingTestWindow;
 
 /**

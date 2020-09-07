@@ -25,31 +25,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b42bd3d-f5c8-4fd1-a6a5-aae954f94f05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/TypingTest_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/TypingTest_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ApplyController.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ApplyController.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ClockModel.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ClockModel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ClockView.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ClockView.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/RefreshController.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/RefreshController.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/SettingsController.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/SettingsController.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/SettingsModel.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/SettingsModel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/SettingsView.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/SettingsView.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/SettingsWindow.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/SettingsWindow.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/StatsModel.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/StatsModel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/StatsView.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/StatsView.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/TextBoxModel.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/TextBoxModel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/TextBoxView.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/TextBoxView.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Timer.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Timer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/TypingTestRunner.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/TypingTestRunner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/TypingTestWindow.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/TypingTestWindow.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/UserInputController.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/UserInputController.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/UserInputFilter.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/UserInputFilter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/UserInputModel.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/UserInputModel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/UserInputView.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/UserInputView.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Word.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Word.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/WordDatabase.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/WordDatabase.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/allclasses-frame.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/allclasses-noframe.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/help-doc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-10.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-11.html" afterDir="false" />
@@ -71,29 +54,13 @@
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/overview-tree.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/docs/package-list" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/package-summary.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ApplyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/ApplyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClockModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/ClockModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClockView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/ClockView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RefreshController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/RefreshController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SettingsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/SettingsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SettingsModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/SettingsModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SettingsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/SettingsView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SettingsWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/windows/SettingsWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StatsModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/StatsModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StatsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/StatsView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TextBoxModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/TextBoxModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TextBoxView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/TextBoxView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structs/Timer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TypingTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypingTestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TypingTestWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/windows/TypingTestWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserInputController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/UserInputController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserInputFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/filters/UserInputFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserInputModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/UserInputModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserInputView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/UserInputView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structs/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WordDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structs/WordDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypingTestRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structs/WordDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structs/WordDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/windows/TypingTestWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/windows/TypingTestWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,9 +86,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/TypingTest_jar/TypingTest.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.16015625" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -132,7 +99,7 @@
   </component>
   <component name="RunManager" selected="Application.TypingTestRunner">
     <configuration name="TypingTestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TypingTestRunner" />
+      <option name="MAIN_CLASS_NAME" value="runner.TypingTestRunner" />
       <module name="TypingTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -184,19 +151,20 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="1173" y="457" key="#BuildArtifactsBeforeRunChooser" timestamp="1599506049027">
+    <state x="1173" y="457" key="#BuildArtifactsBeforeRunChooser" timestamp="1599511047781">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1173" y="457" key="#BuildArtifactsBeforeRunChooser/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599506049027" />
-    <state x="847" y="259" width="1092" height="787" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599506050907">
+    <state x="1173" y="457" key="#BuildArtifactsBeforeRunChooser/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599511047781" />
+    <state x="847" y="259" width="1092" height="811" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599511050901">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="635" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594762309666" />
-    <state x="847" y="259" width="1092" height="787" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599506050907" />
-    <state x="932" y="391" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594762091735">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="847" y="259" width="1092" height="811" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599511050901" />
+    <state x="1243" y="521" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599510925571">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="932" y="391" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594762091735" />
+    <state x="1243" y="521" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599510925571" />
     <state x="423" y="613" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599506283183">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -205,35 +173,36 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="395" y="426" key="#xdebugger.evaluate/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599508135488" />
-    <state x="733" y="242" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1594764752554">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="977" y="323" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1599510814423">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="733" y="242" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1594764752554" />
-    <state x="1309" y="483" key="FileChooserDialogImpl" timestamp="1599506044946">
+    <state x="977" y="323" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599510814423" />
+    <state x="1309" y="483" key="FileChooserDialogImpl" timestamp="1599510956879">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="982" y="362" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1594764751381" />
-    <state x="1309" y="483" key="FileChooserDialogImpl/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599506044946" />
-    <state width="1234" height="412" key="GridCell.Tab.0.bottom" timestamp="1599508322466">
+    <state x="1309" y="483" key="FileChooserDialogImpl/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599510956879" />
+    <state width="1248" height="413" key="GridCell.Tab.0.bottom" timestamp="1599511620884">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1265" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594767060337" />
-    <state width="1234" height="412" key="GridCell.Tab.0.bottom/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599508322466" />
-    <state width="1234" height="412" key="GridCell.Tab.0.center" timestamp="1599508322466">
+    <state width="1248" height="413" key="GridCell.Tab.0.bottom/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599511620884" />
+    <state width="1248" height="413" key="GridCell.Tab.0.center" timestamp="1599511620884">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1265" height="227" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594767060337" />
-    <state width="1234" height="412" key="GridCell.Tab.0.center/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599508322466" />
-    <state width="1234" height="412" key="GridCell.Tab.0.left" timestamp="1599508322466">
+    <state width="1248" height="413" key="GridCell.Tab.0.center/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599511620884" />
+    <state width="1248" height="413" key="GridCell.Tab.0.left" timestamp="1599511620884">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1265" height="227" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594767060337" />
-    <state width="1234" height="412" key="GridCell.Tab.0.left/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599508322466" />
-    <state width="1234" height="412" key="GridCell.Tab.0.right" timestamp="1599508322466">
+    <state width="1248" height="413" key="GridCell.Tab.0.left/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599511620884" />
+    <state width="1248" height="413" key="GridCell.Tab.0.right" timestamp="1599511620884">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1265" height="227" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594767060337" />
-    <state width="1234" height="412" key="GridCell.Tab.0.right/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599508322466" />
+    <state width="1248" height="413" key="GridCell.Tab.0.right/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599511620884" />
     <state width="1234" height="507" key="GridCell.Tab.1.bottom" timestamp="1599508158079">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -250,9 +219,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1234" height="507" key="GridCell.Tab.1.right/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599508158079" />
-    <state x="682" y="182" key="SettingsEditor" timestamp="1594762101274">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="909" y="243" key="SettingsEditor" timestamp="1599510962404">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="682" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1594762101274" />
+    <state x="909" y="243" key="SettingsEditor/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1599510962404" />
   </component>
 </project>
