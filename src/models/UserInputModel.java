@@ -1,3 +1,5 @@
+package models;
+
 import java.util.Observable;
 
 /**
@@ -8,7 +10,7 @@ public class UserInputModel extends Observable {
     private boolean currentlyAcceptingInput;
 
     /**
-     * Creates a new UserInputModel with an empty input and is
+     * Creates a new models.UserInputModel with an empty input and is
      * currently accepting input.
      */
     public UserInputModel() {
@@ -17,7 +19,7 @@ public class UserInputModel extends Observable {
     }
 
     /**
-     * Resets the UserInputModel to having an empty input and is
+     * Resets the models.UserInputModel to having an empty input and is
      * currently accepting input.
      */
     public void reset() {

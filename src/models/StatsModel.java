@@ -1,3 +1,5 @@
+package models;
+
 import java.util.Observable;
 
 /**
@@ -9,7 +11,7 @@ public class StatsModel extends Observable {
     private int time;
 
     /**
-     * Creates a new StatsModel with all stats set to zero.
+     * Creates a new models.StatsModel with all stats set to zero.
      */
     public StatsModel() {
         correctKeystrokes = wrongKeystrokes = correctWords = wrongWords = time = 0;

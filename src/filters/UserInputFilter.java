@@ -1,3 +1,12 @@
+package filters;
+
+import models.ClockModel;
+import models.StatsModel;
+import models.TextBoxModel;
+import models.UserInputModel;
+import structs.Timer;
+import structs.Word;
+
 import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.DocumentFilter;

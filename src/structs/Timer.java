@@ -1,3 +1,10 @@
+package structs;
+
+import models.ClockModel;
+import models.StatsModel;
+import models.TextBoxModel;
+import models.UserInputModel;
+
 import java.util.TimerTask;
 
 /**

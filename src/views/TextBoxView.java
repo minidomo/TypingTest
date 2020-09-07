@@ -1,3 +1,7 @@
+package views;
+
+import models.TextBoxModel;
+
 import javax.swing.*;
 import java.awt.*;
 
@@ -6,7 +10,7 @@ import java.awt.*;
  */
 public class TextBoxView {
     /**
-     * Creates a TextBoxView and adds observers to the given TextBoxModel.
+     * Creates a views.TextBoxView and adds observers to the given models.TextBoxModel.
      *
      * @param textBoxModel         the text box model
      * @param topRowWordDisplay    an observer

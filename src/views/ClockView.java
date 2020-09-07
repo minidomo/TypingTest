@@ -1,3 +1,7 @@
+package views;
+
+import models.ClockModel;
+
 import javax.swing.*;
 
 /**
@@ -5,7 +9,7 @@ import javax.swing.*;
  */
 public class ClockView {
     /**
-     * Creates a ClockView and adds an observer to the given ClockModel.
+     * Creates a views.ClockView and adds an observer to the given models.ClockModel.
      *
      * @param clockModel      the clock model
      * @param timeMiddleLabel the observer

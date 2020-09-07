@@ -1,3 +1,5 @@
+package structs;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -14,12 +16,12 @@ public class WordDatabase {
      */
     private WordDatabase() {
         try {
-            Scanner sc = new Scanner(WordDatabase.class.getResourceAsStream("resources/words/easy.txt"));
+            Scanner sc = new Scanner(WordDatabase.class.getResourceAsStream("../resources/words/easy.txt"));
             easyWords = new ArrayList<>();
             while (sc.hasNext()) {
                 easyWords.add(new Word(sc.next()));
             }
-            sc = new Scanner(WordDatabase.class.getResourceAsStream("resources/words/hard.txt"));
+            sc = new Scanner(WordDatabase.class.getResourceAsStream("../resources/words/hard.txt"));
             hardWords = new ArrayList<>();
             while (sc.hasNext()) {
                 hardWords.add(new Word(sc.next()));
@@ -31,9 +33,9 @@ public class WordDatabase {
     }
 
     /**
-     * Returns the WordDatabase for this Java application.
+     * Returns the structs.WordDatabase for this Java application.
      *
-     * @return the WordDatabase for this Java application
+     * @return the structs.WordDatabase for this Java application
      */
     public static WordDatabase getInstance() {
         return WORD_DATABASE;

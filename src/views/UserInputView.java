@@ -1,3 +1,7 @@
+package views;
+
+import models.UserInputModel;
+
 import javax.swing.*;
 
 /**
@@ -5,7 +9,7 @@ import javax.swing.*;
  */
 public class UserInputView {
     /**
-     * Creates a UserInputView and adds an observer to the given UserInputModel.
+     * Creates a views.UserInputView and adds an observer to the given models.UserInputModel.
      *
      * @param userInputModel the user input model
      * @param inputField     the observer

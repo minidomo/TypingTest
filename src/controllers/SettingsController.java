@@ -1,3 +1,8 @@
+package controllers;
+
+import models.SettingsModel;
+import windows.SettingsWindow;
+
 import javax.swing.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;

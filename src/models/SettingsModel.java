@@ -1,3 +1,5 @@
+package models;
+
 import java.util.Observable;
 
 /**
@@ -28,9 +30,9 @@ public class SettingsModel extends Observable {
     }
 
     /**
-     * Returns the SettingsModel for this Java application.
+     * Returns the models.SettingsModel for this Java application.
      *
-     * @return the SettingsModel for this Java application
+     * @return the models.SettingsModel for this Java application
      */
     public static SettingsModel getInstance() {
         return SETTINGS_MODEL;

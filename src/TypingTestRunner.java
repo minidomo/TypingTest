@@ -1,3 +1,5 @@
+import windows.TypingTestWindow;
+
 /**
  * Runner for the Typing Test Application.
  */

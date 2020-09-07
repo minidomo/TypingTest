@@ -1,3 +1,10 @@
+package controllers;
+
+import models.ClockModel;
+import models.StatsModel;
+import models.TextBoxModel;
+import models.UserInputModel;
+
 import javax.swing.*;
 
 /**

@@ -1,3 +1,8 @@
+package controllers;
+
+import models.SettingsModel;
+import windows.SettingsWindow;
+
 /**
  * A controller that modifies models related to clicking the
  * apply button.

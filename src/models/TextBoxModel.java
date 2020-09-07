@@ -1,3 +1,8 @@
+package models;
+
+import structs.Word;
+import structs.WordDatabase;
+
 import javax.swing.*;
 import java.util.ArrayList;
 import java.util.Observable;
@@ -18,7 +23,7 @@ public class TextBoxModel extends Observable {
             CLEAR_EVENT = 3;
 
     /**
-     * Creates a TextBoxModel with default values based on SettingsModel.
+     * Creates a models.TextBoxModel with default values based on models.SettingsModel.
      */
     public TextBoxModel() {
         rows = new ArrayList<>();

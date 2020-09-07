@@ -1,3 +1,5 @@
+package windows;
+
 import javax.swing.*;
 import java.awt.*;
 
@@ -16,7 +18,7 @@ public class SettingsWindow {
     public SettingsWindow() {
         frame = new JFrame();
         frame.setResizable(false);
-        frame.setTitle("SettingsModel");
+        frame.setTitle("models.SettingsModel");
         frame.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
         frame.setLocationRelativeTo(null); // center JFrame in the middle of the screen        
         frame.add(createMainPanel());

@@ -1,3 +1,5 @@
+package structs;
+
 import java.awt.*;
 
 /**
@@ -16,7 +18,7 @@ public class Word {
     private Color foreground, background;
 
     /**
-     * Creates a new Word with a given word.
+     * Creates a new structs.Word with a given word.
      *
      * @param word the word
      */

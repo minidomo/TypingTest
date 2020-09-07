@@ -1,3 +1,11 @@
+package controllers;
+
+import filters.UserInputFilter;
+import models.ClockModel;
+import models.StatsModel;
+import models.TextBoxModel;
+import models.UserInputModel;
+
 import javax.swing.*;
 import javax.swing.text.AbstractDocument;
 

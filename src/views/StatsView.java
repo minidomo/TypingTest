@@ -1,3 +1,7 @@
+package views;
+
+import models.StatsModel;
+
 import javax.swing.*;
 
 /**
@@ -5,7 +9,7 @@ import javax.swing.*;
  */
 public class StatsView {
     /**
-     * Creates a StatsView and adds an observer to the given StatsModel.
+     * Creates a views.StatsView and adds an observer to the given models.StatsModel.
      *
      * @param statsModel              the stats model
      * @param wpmLabel                an observer

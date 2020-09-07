@@ -1,3 +1,8 @@
+package views;
+
+import models.SettingsModel;
+import windows.SettingsWindow;
+
 import javax.swing.*;
 import java.awt.*;
 
@@ -6,7 +11,7 @@ import java.awt.*;
  */
 public class SettingsView {
     /**
-     * Creates a SettingsView and adds an observer to the given SettingsModel.
+     * Creates a views.SettingsView and adds an observer to the given models.SettingsModel.
      *
      * @param settingsModel   the settings model
      * @param settingsWindow  an observer
